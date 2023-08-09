@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicketFacil</string>
+    <string name="guardar">Guardar</string>
+    <string name="dialog_puntosh_title">Configurar Servidor</string>
+</resources>
